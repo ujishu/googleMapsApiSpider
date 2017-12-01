@@ -1,0 +1,7 @@
+Search places https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=50.4399900,30.5714000&radius=45000&type=establishment&keyword=Cafe&key=AIzaSyAeGLMSwNGhAZN_Mcxmmxvhas8_YM1cZ-o
+Place_id request https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJ62RR31bO1EARnisfeV11l6A&key=AIzaSyAeGLMSwNGhAZN_Mcxmmxvhas8_YM1cZ-o
+
+https://developers.google.com/places/web-service/details
+
+Python Api : https://googlemaps.github.io/google-maps-services-python/docs/#
+Git: https://github.com/googlemaps/google-maps-services-python
